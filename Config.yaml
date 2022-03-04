@@ -1,0 +1,10 @@
+# the address of signavio host
+host: https://editor.signavio.com
+
+# the login information, user email, password, and the workspace ID
+login:
+  user:
+  passwd:
+  workspaceId: 03e2e312a6d94824b58479560d1edd55
+
+
